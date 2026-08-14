@@ -207,13 +207,13 @@ EmployeeManagementSystem/
 ## Reports
 <img width="1001" height="660" alt="d" src="https://github.com/user-attachments/assets/124a4308-8316-431e-a22a-e505f8cf2f7f" />
 
-### Setting
+# Setting
 <img width="499" height="406" alt="e" src="https://github.com/user-attachments/assets/e9f49944-460f-4625-a53d-bd6912f96289" />
 
 ## About section
 <img width="275" height="222" alt="about" src="https://github.com/user-attachments/assets/9b19d819-068b-478d-9abf-c1e488b19019" />
 
-### BUTTONS
+# BUTTONS
 ## login
 <img width="263" height="124" alt="login" src="https://github.com/user-attachments/assets/99b937ab-dedb-4602-a29e-01331e066e51" />
 
