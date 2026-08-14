@@ -79,11 +79,7 @@ The system supports three employee types:
 - Search results show useful information such as:
   - Employee ID
   - Name
-  - Employee Type
-  - Department
-  - Base Salary
-- Search can be performed directly from the dashboard search field.
-
+  - 
 ### Reports
 
 - Displays employee records separately.
@@ -211,8 +207,11 @@ EmployeeManagementSystem/
 ## Reports
 <img width="1001" height="660" alt="d" src="https://github.com/user-attachments/assets/124a4308-8316-431e-a22a-e505f8cf2f7f" />
 
-## Setting
+### Setting
 <img width="499" height="406" alt="e" src="https://github.com/user-attachments/assets/e9f49944-460f-4625-a53d-bd6912f96289" />
+
+## About section
+<img width="275" height="222" alt="about" src="https://github.com/user-attachments/assets/9b19d819-068b-478d-9abf-c1e488b19019" />
 
 ### BUTTONS
 ## login
@@ -220,6 +219,9 @@ EmployeeManagementSystem/
 
 ## Delete
 <img width="288" height="121" alt="delete" src="https://github.com/user-attachments/assets/c980a771-e7a1-42b2-88b9-5d48cb7b9061" />
+
+## Refresh
+<img width="264" height="118" alt="refresh" src="https://github.com/user-attachments/assets/2e7e249b-e3f0-4149-a64c-b8abc8869d69" />
 
 ## Logout
 <img width="265" height="125" alt="logout" src="https://github.com/user-attachments/assets/b8bc13e3-8e0d-4669-91de-db75bf1945d5" />
