@@ -160,8 +160,7 @@ Make sure you have:
 
 ## Project Structure
 
-A typical project structure is organized as follows:
-```text
+**```text**
 EmployeeManagementSystem/
 │
 ├── src/
@@ -181,8 +180,12 @@ EmployeeManagementSystem/
 │   │   └── EmployeeManager.java
 │   │
 │   └── utils/
-│       └──FileHandler.java
+│       └── FileHandler.java
 │
 ├── Main.java
-└── README.md
+├── README.md
 └── .gitignore
+
+ **```**
+
+<img width="887" height="592" alt="a" src="https://github.com/user-attachments/assets/3aac3f89-d72d-4e62-a3ec-99b00db16a8d" />
