@@ -160,7 +160,7 @@ Make sure you have:
 
 ## Project Structure
 
-**```text**
+```text
 EmployeeManagementSystem/
 │
 ├── src/
@@ -186,6 +186,61 @@ EmployeeManagementSystem/
 ├── README.md
 └── .gitignore
 
- **```**
+ ```
+## Register an account
 
+```
 <img width="887" height="592" alt="a" src="https://github.com/user-attachments/assets/3aac3f89-d72d-4e62-a3ec-99b00db16a8d" />
+
+```
+## Login panel
+
+```
+<img width="481" height="553" alt="b" src="https://github.com/user-attachments/assets/d7a86aa8-8bd5-4457-bcd3-0b658f77765f" />
+
+```
+## Dashboard
+
+```
+<img width="1366" height="729" alt="c" src="https://github.com/user-attachments/assets/045d51e4-c91f-49fe-aea6-1992a6ca3bea" />
+
+```
+## Add Employee form
+
+```
+<img width="585" height="671" alt="f" src="https://github.com/user-attachments/assets/ff5849a1-31df-4184-8a84-5a04cc238816" />
+
+```
+## Update form
+
+```
+<img width="487" height="595" alt="g" src="https://github.com/user-attachments/assets/08fc5210-2efa-48fc-ae43-28fd7bc75410" />
+
+```
+## Search any Employee by name
+
+```
+<img width="707" height="423" alt="h" src="https://github.com/user-attachments/assets/a0ef7114-b8bf-47ca-a551-544465fa7493" />
+
+```
+## Reports
+
+```
+<img width="1001" height="660" alt="d" src="https://github.com/user-attachments/assets/124a4308-8316-431e-a22a-e505f8cf2f7f" />
+
+```
+## Setting
+
+```
+<img width="499" height="406" alt="e" src="https://github.com/user-attachments/assets/e9f49944-460f-4625-a53d-bd6912f96289" />
+
+```
+### BUTTONS
+## login
+<img width="263" height="124" alt="login" src="https://github.com/user-attachments/assets/99b937ab-dedb-4602-a29e-01331e066e51" />
+
+## Delete
+<img width="288" height="121" alt="delete" src="https://github.com/user-attachments/assets/c980a771-e7a1-42b2-88b9-5d48cb7b9061" />
+
+## Logout
+<img width="265" height="125" alt="logout" src="https://github.com/user-attachments/assets/b8bc13e3-8e0d-4669-91de-db75bf1945d5" />
