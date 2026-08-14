@@ -186,6 +186,3 @@ EmployeeManagementSystem/
 ├── Main.java
 └── README.md
 └── .gitignore
-- **Event Handling**
-- **Collections**
-- **GUI Components**
