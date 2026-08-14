@@ -210,7 +210,7 @@ EmployeeManagementSystem/
 # Setting
 <img width="499" height="406" alt="e" src="https://github.com/user-attachments/assets/e9f49944-460f-4625-a53d-bd6912f96289" />
 
-## - About section
+## - About 
 <img width="275" height="222" alt="about" src="https://github.com/user-attachments/assets/9b19d819-068b-478d-9abf-c1e488b19019" />
 
 # BUTTONS
