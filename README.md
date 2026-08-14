@@ -205,6 +205,9 @@ EmployeeManagementSystem/
 ## Search any Employee by name
 <img width="707" height="423" alt="h" src="https://github.com/user-attachments/assets/a0ef7114-b8bf-47ca-a551-544465fa7493" />
 
+## All Employee's record
+<img width="932" height="535" alt="i" src="https://github.com/user-attachments/assets/5b5c7cbc-db3e-4d39-9040-8d1c3f58b9da" />
+
 ## Reports
 <img width="1001" height="660" alt="d" src="https://github.com/user-attachments/assets/124a4308-8316-431e-a22a-e505f8cf2f7f" />
 
